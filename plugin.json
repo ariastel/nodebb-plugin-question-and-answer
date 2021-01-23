@@ -2,7 +2,7 @@
 	"id": "nodebb-plugin-question-and-answer",
 	"name": "Question and Answer Plugin for NodeBB",
 	"description": "A plugin for NodeBB which allows users to post topics as questions and select a post as the answer",
-	"url": "https://github.com/NodeBB/nodebb-plugin-question-and-answer",
+	"url": "https://github.com/ariastel/nodebb-plugin-question-and-answer",
 	"library": "./library.js",
 	"hooks": [
 		{
@@ -80,5 +80,6 @@
 	],
 	"templates": "static/templates",
 	"languages": "static/languages",
-	"defaultLang": "en_US"
+	"defaultLang": "en_US",
+	"settingsRoute": "/admin/plugins/question-and-answer"
 }
