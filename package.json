@@ -11,7 +11,13 @@
     "answer",
     "Q&A"
   ],
-  "author": "Ariastel Team <ariastel@iamantosik.me> (https://github.com/ariastel)",
+  "author": {
+    "name": "psychobunny",
+    "email": "psycho.bunny@hotmail.com"
+  },
+  "contributors": [
+    "Ariastel Team <ariastel@iamantosik.me> (https://github.com/ariastel)"
+  ],
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/ariastel/nodebb-plugin-question-and-answer/issues"
